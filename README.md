@@ -1,8 +1,8 @@
 ### Hi there I'm Omar 👋
 
 
-- 🌱 I’m currently working as Technical Manager at Connected
-- 👯 I’m looking for an exciting opportunity in good working environment
+- 🌱 I’m currently working as Software Engineer at Connected
+- 👯 I’m looking for an exciting opportunity in a good working environment
 - 📫 How to reach me: omarh.ismail1@gmail.com &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:omarh.ismail1@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;&nbsp; OR &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/omarhatem01/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
